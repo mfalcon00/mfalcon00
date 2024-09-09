@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there in Marjorie 👋
+-  I’m currently learning about Data Science and very excited about it !
+- 
+  
+  
 <!--
 **mfalcon00/mfalcon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

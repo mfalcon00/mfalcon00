@@ -1,5 +1,4 @@
 ## Hi there I'm Marjorie 👋
--  I’m currently learning Data Science and very excited about it !
 -  I’m currently working on achieving a Data Science Diploma from Concordia
 -  I'd be thrilled to collaborate on projects where I can practice my new skills
  

@@ -1,4 +1,4 @@
-## Hi there in Marjorie 👋
+## Hi there I'm Marjorie 👋
 -  I’m currently learning about Data Science and very excited about it !
   
   
